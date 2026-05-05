@@ -1,0 +1,1 @@
+// Legacy Controller - Replaced by AdminManagementController and specific module controllers.

@@ -1,0 +1,36 @@
+# Build output
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# Logs
+logs/
+
+# Node
+node_modules/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.user
+*.suo
+*.cache
+
+# Package manager (NuGet)
+packages/
+*.nupkg
+
+# Test results
+TestResults/
+
+# Publish output
+publish/
